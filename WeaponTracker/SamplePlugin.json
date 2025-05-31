@@ -1,0 +1,13 @@
+{
+  "Author": "Nyxxonial",
+  "Name": "Weapon & Relic Tracker",
+  "Punchline": "Have a mod for tracking what weapons/relics you have or whats needed.",
+  "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "weapons",
+    "plugin",
+    "relics",
+    "tracking"
+  ]
+}
